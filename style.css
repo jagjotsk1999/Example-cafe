@@ -1,0 +1,27 @@
+a{
+  text-decoration: none;
+  font-family: cursive;
+  font-weight: bold;
+  color: blue;
+  font-size: 25px;
+}
+hr{
+  color: cyan;
+}
+body{
+  border: 7px solid cyan;
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-right: 30px;
+}
+h1{
+  color: cyan;
+  font-size: 75px;
+}
+h2{
+  font-size: 40px;
+}
+table{
+  padding: 20px;
+  font-size: 20px;
+}
